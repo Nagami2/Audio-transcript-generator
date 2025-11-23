@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Video Scribe",
+  "description": "Generate timestamped transcripts from videos automatically using Gemini 2.5 Flash. Supports direct video file uploads and YouTube workflow guidance.",
+  "requestFramePermissions": []
+}
